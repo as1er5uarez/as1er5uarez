@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asier</h1>
-<h3 align="center">Soy un backend developer con gran potencial</h3>
+<h3 align="center">i am a backend developer</h3>
 
 - 🔭 I’m currently working on **WebCuatrovientosIdiomas**
 
