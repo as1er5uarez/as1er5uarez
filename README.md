@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **WebCuatrovientosIdiomas**
 
-- 🌱 I’m currently learning **Boostrap**
+- 🌱 I’m currently learning **jQuery**
 
-- 👯 I’m looking to collaborate on **Hangman Master**
+- 👯 I’m looking to working on **Weather App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/as1er5uarez/as1er5uarez](https://github.com/as1er5uarez/as1er5uarez)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suarexasier@gmail.com**
 
-- ⚡ Fun fact **Soy entrenador de futbol con Licencia UEFA C con 5 años de experienci(1 año en categoría Benjamín y 4 en categoría Alevín)**
+- ⚡ Fun fact **Soy entrenador de futbol con Licencia UEFA C con 5 años de experiencia(1 año en categoría Benjamín y 4 en categoría Alevín)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
