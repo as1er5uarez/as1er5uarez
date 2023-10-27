@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asier</h1>
 <h3 align="center">i'm a backend developer</h3>
 
-- 🔭 I’m currently working on **Proyecto Biblioteca** in C#
+- 🔭 I’m currently working on **App movil para lenguaje de signos** in C#
 
 - 🌱 I’m currently learning **jQuery**
 
