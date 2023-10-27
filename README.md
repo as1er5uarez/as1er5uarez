@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asier</h1>
-<h3 align="center">i am a backend developer</h3>
+<h3 align="center">i'm a backend developer</h3>
 
-- 🔭 I’m currently working on **WebCuatrovientosIdiomas**
+- 🔭 I’m currently working on **Proyecto Biblioteca** in C#
 
 - 🌱 I’m currently learning **jQuery**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/as1er5uarez/as1er5uarez](https://github.com/as1er5uarez/as1er5uarez)
 
-- 💬 Ask me about **Java, javascript and vb.net**
+- 💬 Ask me about **Java, javascript and pyhton**
 
 - 📫 How to reach me **suarexasier@gmail.com**
 
